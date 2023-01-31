@@ -8,3 +8,5 @@ in a mdbook.
   <object type="image/svg+xml" class="copy code_panel" data="assets/copy_target/vis_code.svg"></object>
   <object type="image/svg+xml" class="copy tl_panel" data="assets/copy_target/vis_timeline.svg" style="width: auto;" onmouseenter="helpers('copy')"></object>
 </div>
+
+{{#quiz ./quiz.toml}}
